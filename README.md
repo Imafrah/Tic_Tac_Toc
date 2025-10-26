@@ -1,5 +1,6 @@
-*Tic Tac Toe ❌⭕*
-A web-based version of the classic Tic Tac Toe game where two players can play on the same device.
+# Tic Tac Toe ❌⭕
+
+**Tic Tac Toe** A web-based version of the classic Tic Tac Toe game where two players can play on the same device.
 
 **Features:**
 - Two-player mode.
@@ -34,6 +35,7 @@ These games focus on:
 1. Clone this repository:
    ```bash
    git clone https://imafrah.github.io/Tic_Tac_Toc/
+
 
 
 

@@ -13,7 +13,8 @@ A web-based version of the classic Tic Tac Toe game where two players can play o
 - JavaScript
 
 ## 📷 Preview
-<img width="1363" height="627" alt="image" src="https://github.com/user-attachments/assets/4b5ac370-3d69-4c4d-b386-d36a50e45478" />
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/3637372f-e4b8-4149-81de-abab53fad303" />
+
 
 
 ---
@@ -33,4 +34,5 @@ These games focus on:
 1. Clone this repository:
    ```bash
    git clone https://imafrah.github.io/Tic_Tac_Toc/
+
 
